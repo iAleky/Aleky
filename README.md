@@ -1,4 +1,4 @@
-! [MasterHead]()
+! [MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE3rWxZRwtsEw/profile-displaybackgroundimage-shrink_350_1400/B4DZgeNWXVHsAY-/0/1752853474049?e=1755734400&v=beta&t=VtarxUpWC_YHcH7RlB9bSd5XYTj7UUlKY2w466Vv0l4)
 
 <h1 align="center">Hi 👋, I'm Çelik DAYI</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
